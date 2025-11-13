@@ -1,0 +1,1093 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "browse": "Jobs durchsuchen",
+        "post": "Job veröffentlichen",
+        "pricing": "Preise",
+        "dashboard": "Dashboard"
+    },
+    "buttons": {
+        "getStarted": "Loslegen",
+        "logOut": "Abmelden",
+        "accept": "Annehmen",
+        "makeOffer": "Angebot machen",
+        "bookNow": "Jetzt buchen",
+        "learnMore": "Mehr erfahren"
+    },
+    "forms": {
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "email": "E-Mail",
+        "phone": "Telefonnummer",
+        "message": "Nachricht",
+        "submit": "Nachricht senden"
+    },
+    "common": {
+        "loading": "Wird geladen...",
+        "error": "Fehler",
+        "success": "Erfolgreich",
+        "cancel": "Abbrechen",
+        "save": "Speichern",
+        "edit": "Bearbeiten",
+        "delete": "Löschen",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Zeit",
+        "location": "Standort"
+    },
+    "hero": {
+        "headline": "Wo saubere Räume",
+        "heldlinetwo": "vertrauenswürdige Hände",
+        "description": "Egal, ob Sie Reinigungskräfte einstellen oder Reinigungsdienste anbieten, unsere Plattform verbindet Sie mit den richtigen Personen.",
+        "button": "Als Auftragnehmer starten"
+    },
+    "howItWorks": {
+        "sectionTitle": "So funktioniert es ",
+        "jobPosters": "AUFTRAGGEBER",
+        "posterStep1": "Posten Sie Ihren Job – Wählen Sie Zeit, Datum und Ort",
+        "posterStep2": "Werden Sie mit verfügbaren Dienstleistern abgeglichen",
+        "posterStep3": "Überprüfen Sie Angebote und wählen Sie Ihren bevorzugten Anbieter",
+        "posterStep4": "Genehmigen Sie den Job nach Abschluss & zahlen Sie sicher",
+        "cleaningContractors": "Reinigungsdienstleister",
+        "contractorStep1": "Melden Sie sich an und erstellen Sie Ihr Dienstleistungsprofil",
+        "contractorStep2": "Sehen Sie sich passende Jobs an und bewerben Sie sich",
+        "contractorStep3": "Markieren Sie den Job nach Abschluss mit Nachweis",
+        "contractorStep4": "Erhalten Sie die Bezahlung nach Genehmigung des Jobs (10% Gebühr abgezogen)"
+    },
+    "topCategoriesJob": {
+        "sectionTitle": "Top Job Kategorien",
+        "headlinePart1": "Reinigung",
+        "headlinePart2": "Dienstleistungen",
+        "headlinePart3": "Nach denen die Leute suchen",
+        "residentialTitle": "Wohnungsreinigung",
+        "residentialDesc": "Für Häuser, Wohnungen und Apartments. Halten Sie Ihren Wohnraum frisch und makellos.",
+        "commercialTitle": "Gewerbliche Reinigung",
+        "commercialDesc": "Perfekt für Geschäfte, Restaurants und Gebäude – hochwertige Reinigung, die Ihre Marke widerspiegelt.",
+        "officeTitle": "Büroreinigung",
+        "officeDesc": "Halten Sie einen ordentlichen, produktiven Arbeitsplatz mit regelmäßigen Reinigungen.",
+        "outdoorTitle": "Außen- & Gartenreinigung",
+        "outdoorDesc": "Reinigen Sie Außenbereiche, Terrassen, Einfahrten oder Gärten – ordentlich und gepflegt."
+    },
+    "ctaSection": {
+        "firstBlockLine1": "Sobald ein Job angenommen und abgeschlossen wurde, können Kunden die Arbeit überprüfen, bevor sie die Zahlung freigeben. Unsere Plattform",
+        "firstBlockLine2": "zieht automatisch eine 10%ige Vermittlungsprovision ab, der Rest wird an den Reinigungskraft überwiesen.",
+        "secondBlockLine1": "Selbstständige Reinigungskräfte und Unternehmen durchsuchen verfügbare Jobs nach Kategorie und Standort. Nur verifizierte Anbieter",
+        "secondBlockLine2": "mit aktiven Abonnements können sich bewerben, um jedes Mal ein professionelles Erlebnis zu gewährleisten.",
+        "getStartedTitle": "In wenigen Minuten loslegen",
+        "getStartedDescription": "Posten Sie Ihren ersten Reinigungsauftrag oder erstellen Sie ein Dienstleistungsprofil — schnell, sicher und einfach.",
+        "joinAsContractor": "Als Auftragnehmer beitreten",
+        "postJobNow": "Jetzt einen Job posten"
+    },
+    "jobHero": {
+        "headline1": "Durchsuchen",
+        "headline2": "Reinigungsjobs",
+        "headline3": "Verfügbar in Ihrer Nähe",
+        "description": "Finden Sie Jobs, die zu Ihrer Reinigungsexpertise passen. Bewerben Sie sich direkt oder bieten Sie Ihren eigenen Preis an. Nur zugelassene Auftragnehmer können bieten.",
+        "cta": "Als Auftragnehmer starten"
+    },
+    "readySection": {
+        "title": "Bereit loszulegen?",
+        "subtitle": "Egal, ob Sie eine Reinigungskraft benötigen oder Ihr Reinigungsunternehmen ausbauen möchten – alles beginnt hier.",
+        "cta": "Als Auftragnehmer beitreten"
+    },
+    "postAJob": {
+        "headline1": "Durchsuchen",
+        "headline2": "Reinigungsjobs",
+        "headline3": "Verfügbar in Ihrer Nähe",
+        "description": "Finden Sie Jobs, die zu Ihrer Reinigungsexpertise passen. Bewerben Sie sich direkt oder bieten Sie Ihren eigenen Preis an. Nur zugelassene Auftragnehmer können bieten.",
+        "cta": "Als Auftragnehmer starten"
+    },
+    "postJobPage": {
+        "badge": "So funktioniert es für",
+        "headline": "So funktioniert es für",
+        "highlight": "ARBEITGEBER",
+        "steps": {
+            "step1": "Stellen Sie Ihren Job ein – Wählen Sie Zeit, Datum und Ort",
+            "step2": "Lassen Sie sich mit verfügbaren Dienstleistern abgleichen",
+            "step3": "Prüfen Sie Angebote und wählen Sie Ihren bevorzugten Anbieter",
+            "step4": "Genehmigen Sie den Auftrag nach Abschluss & bezahlen Sie sicher"
+        }
+    },
+    "postAJobForm": {
+        "topJobCategories": "Top-Kategorie der Jobs",
+        "getTheCleaningDone": "Erledigen Sie die",
+        "cleaning": "Reinigung",
+        "doneWithoutStress": "Ohne Stress",
+        "jobTitle": "Jobtitel",
+        "jobTitleRequired": "Jobtitel ist erforderlich",
+        "cleaningCategory": "Reinigungskategorie",
+        "selectCategory": "Kategorie auswählen",
+        "residential": "Privathaushalt",
+        "commercial": "Gewerblich",
+        "office": "Büro",
+        "jobDescription": "Jobbeschreibung",
+        "street": "Straße",
+        "area": "Bereich",
+        "city": "Stadt",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Zeit",
+        "extraRequirements": "Zusätzliche Anforderungen",
+        "ownCleaningTools": "Haben Sie eigene Reinigungsgeräte?",
+        "uploadThumbnail": "Miniaturbild hochladen",
+        "formats": "Formate: JPG, PNG, JPEG – Max 5MB",
+        "uploadPhotos": "Fotos hochladen",
+        "addNew": "Neu hinzufügen",
+        "uploadVideos": "Videos hochladen",
+        "contactInformation": "Kontaktinformationen",
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "notificationPreference": "Benachrichtigungseinstellungen",
+        "inAppNotifications": "In-App-Benachrichtigungen",
+        "emailNotifications": "E-Mail-Benachrichtigungen",
+        "smsNotifications": "SMS-Benachrichtigungen",
+        "postNow": "Jetzt posten",
+        "describe": "Beschreiben",
+        "yourName": "Ihr Name",
+        "emailPlaceholder": "E-Mail",
+        "amount": "Betrag",
+        "am": "AM",
+        "pm": "PM",
+        "errorMessage": "Bitte melden Sie sich als Stellenanbieter an, um Ihren Job zu veröffentlichen!",
+        "success": "Job erfolgreich gepostet!",
+        "error": "Etwas ist schiefgelaufen!",
+        "posting": "Wird gepostet..."
+    },
+    "privacyPolicy": {
+        "title": "Datenschutzrichtlinie",
+        "intro": "Bei [Ihr Name] legen wir großen Wert auf Ihre Privatsphäre und verpflichten uns, Ihre persönlichen Daten zu schützen. Diese Datenschutzrichtlinie erklärt, wie wir Informationen sammeln, verwenden und weitergeben, wenn Sie unsere Website nutzen.",
+        "whoWeAre": "Wer wir sind",
+        "whoWeAreDesc": "Wir sind [Ihr Name], ein [Ihr Unternehmenstyp] Unternehmen, das [kurze Beschreibung/Kontaktdetails].",
+        "contactUs": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns:",
+        "email": "E-Mail",
+        "emailAddress": "privacy@yoursite.com",
+        "whatInfoWeCollect": "Welche Informationen wir sammeln",
+        "infoCollectDesc": "Wir sammeln die folgenden Arten von Informationen, abhängig davon, wie Sie die Plattform nutzen",
+        "partnerOffers": "Wenn Sie unsere Partnerangebote nutzen",
+        "infoList1": [
+            "Name, E-Mail und Kontaktnummer",
+            "Job-, Standort- und Unternehmensdetails",
+            "Informationen über Ihre geschäftlichen Anforderungen",
+            "Zahlungsdetails (über Drittanbieter)"
+        ],
+        "infoList2": [
+            "Name, E-Mail, Unternehmensdetails",
+            "Profildaten und Unternehmensinformationen",
+            "Leistungsdaten des Unternehmens",
+            "Unterstützende Zahlungsdetails",
+            "Technische Daten unserer Unternehmensnutzung (anonymisiert)"
+        ],
+        "howWeUseInfo": "Wie wir Ihre Informationen verwenden",
+        "howWeUseDesc": "Wir können Daten verwenden, um:",
+        "howWeUseList": [
+            "Sie passend mit geeigneten Kandidaten abzugleichen",
+            "Kommunikation zu erleichtern und Geschäfte zu koordinieren",
+            "Zahlungen zu verarbeiten und Konten zu verwalten",
+            "Unsere Dienstleistungen und Benutzererfahrung zu verbessern",
+            "Kundensupport bereitzustellen",
+            "Betrug und Missbrauch zu verhindern",
+            "Gesetzliche Verpflichtungen einzuhalten"
+        ],
+        "whoWeShareInfoWith": "Mit wem wir Ihre Informationen teilen",
+        "shareInfoDesc": "Wir verkaufen Ihre Daten niemals. Wir teilen nur begrenzte Informationen mit:",
+        "shareInfoList": [
+            "Auftragnehmern oder Kunden (nach Job-Matches)",
+            "Zahlungsabwicklern (Stripe, PayPal)",
+            "Behörden (falls gesetzlich erforderlich)",
+            "Drittanbieterdiensten (falls gesetzlich erforderlich)"
+        ],
+        "howWeProtectData": "Wie wir Ihre Daten schützen",
+        "howWeProtectDataDesc": "Wir verwenden branchenübliche Verschlüsselung und sichere Speicherverfahren. Alle Daten werden auf sicheren Servern gespeichert und der Zugriff ist streng auf autorisiertes Personal beschränkt.",
+        "gdprCompliance": "DSGVO-Compliance (Ihre Rechte)",
+        "gdprDesc": "Als DSGVO-Nutzer haben Sie das Recht auf:",
+        "gdprList": [
+            "Zugriff auf Ihre Daten",
+            "Korrektur fehlerhafter Daten",
+            "Löschung Ihrer Daten",
+            "Einschränkung der Datenverarbeitung",
+            "Widerspruch gegen die Datenverarbeitung",
+            "Export Ihrer Daten (Datenportabilität)"
+        ],
+        "dataRetention": "Datenaufbewahrung",
+        "dataRetentionDesc": "Wir bewahren Ihre Daten so lange auf, wie Ihr Konto aktiv ist oder wie es gesetzliche, geschäftliche oder Plattformanforderungen erfordern. Sie können jederzeit die Löschung beantragen.",
+        "cookies": "Cookies",
+        "cookiesDesc": "Wir verwenden Cookies, um:",
+        "cookiesList": [
+            "Sie angemeldet zu halten",
+            "Website-Leistung und Analysen zu verfolgen",
+            "Die Benutzererfahrung zu verbessern"
+        ],
+        "thirdPartyLinks": "Links zu Drittanbietern",
+        "thirdPartyLinksDesc": "Unsere Website kann Links zu Websites von Drittanbietern enthalten. Alle personenbezogenen Daten, die von diesen Seiten gesammelt werden, liegen nicht in unserer Verantwortung.",
+        "changesToPolicy": "Änderungen dieser Richtlinie",
+        "changesToPolicyDesc": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Alle Änderungen werden auf dieser Seite mit aktualisiertem „Wirksamkeitsdatum“ veröffentlicht."
+    },
+    "termsOfService": {
+        "title": "Nutzungsbedingungen",
+        "intro": "Diese Nutzungsbedingungen regeln Ihre Nutzung der Plattform, unabhängig davon, ob Sie ein Jobposter (Kunde) oder Auftragnehmer (Dienstleister) sind. Durch die Nutzung unserer Plattform stimmen Sie diesen Bedingungen zu.",
+        "acceptanceOfTerms": "Akzeptanz der Bedingungen",
+        "acceptanceText": "Durch den Zugriff auf die Plattform oder deren Nutzung stimmen Sie diesen Bedingungen zu. Wenn Sie nicht zustimmen, nutzen Sie die Plattform bitte nicht.",
+        "userRoles": "Benutzerrollen",
+        "jobPosters": "a. Jobposter (Kunden):",
+        "jobPostersText": "Können Jobangebote erstellen, Bewerbungen von Auftragnehmern prüfen, Jobs genehmigen oder ablehnen und nach Abschluss des Jobs bezahlen.",
+        "contractors": "b. Auftragnehmer (Dienstleister):",
+        "contractorsText": "Können Jobs durchsuchen und sich bewerben, Nachweise hochladen und nach Genehmigung der Arbeit bezahlt werden (abzüglich Provision).",
+        "accountRegistration": "Kontoerstellung",
+        "accountRule1": "Sie müssen genaue Informationen angeben.",
+        "accountRule2": "Sie sind für die Vertraulichkeit Ihres Kontos verantwortlich.",
+        "accountRule3": "Sie müssen 18 Jahre oder älter sein, um sich zu registrieren.",
+        "postingJobs": "Jobs posten und akzeptieren",
+        "postJobRule1": "Jobposter können Jobs kostenlos posten.",
+        "postJobRule2": "Auftragnehmer müssen nach der 3-monatigen Testphase ein aktives Abonnement haben, um sich zu bewerben.",
+        "postJobRule3": "Alle Jobdetails müssen korrekt und respektvoll sein.",
+        "paymentsAndFees": "Zahlungen und Gebühren",
+        "paymentRule1": "Kunden zahlen nach Abschluss und Genehmigung des Jobs.",
+        "paymentRule2": "Auftragnehmer erhalten Zahlungen abzüglich 10% Provision.",
+        "paymentRule3": "Abonnementgebühren für Auftragnehmer betragen nach der Testphase 20 €/Monat.",
+        "paymentRule4": "Alle Zahlungen werden sicher über Stripe oder PayPal abgewickelt.",
+        "prohibitedActivities": "Verbotene Aktivitäten",
+        "youAgreeNotTo": "Sie stimmen zu, Folgendes nicht zu tun:",
+        "prohibited1": "Falsche Informationen bereitstellen",
+        "prohibited2": "Anstößige oder beleidigende Sprache verwenden",
+        "prohibited3": "Betrügerische oder unangemessene Jobangebote posten",
+        "prohibited4": "Gesetze oder Rechte Dritter verletzen",
+        "prohibited5": "Versuchen, die Plattform für externe Geschäfte zu umgehen",
+        "privacyDataUse": "Datenschutz und Datennutzung",
+        "privacyText": "Ihre Daten sind gemäß unserer Datenschutzrichtlinie geschützt. Wir halten uns an die Datenschutzgesetze in Großbritannien und die DSGVO. Vollständige Richtlinie ",
+        "here": "hier",
+        "dataRetention": "Datenspeicherung",
+        "dataRetentionText": "Wir bewahren Ihre Daten so lange auf, wie Ihr Konto aktiv ist oder dies zur Erfüllung rechtlicher, vertraglicher oder plattformbezogener Anforderungen erforderlich ist. Sie können Ihr Konto jederzeit löschen.",
+        "intellectualProperty": "Geistiges Eigentum",
+        "intellectualPropertyText": "Alle Inhalte auf dieser Website (Text, Grafiken, Logo, Software) gehören [Ihrem Firmennamen], sofern nicht anders angegeben. Kopieren oder reproduzieren Sie diese Inhalte nicht ohne Erlaubnis.",
+        "governingLaw": "Anwendbares Recht",
+        "governingLawText": "Diese Bedingungen unterliegen dem Recht von England und Wales."
+    },
+    "faq": {
+        "title": "Häufig gestellte Fragen",
+        "subtitle": "Alles, was Sie über das Posten von Jobs, Bewerbungen, Zahlungen, Abonnements und mehr wissen müssen.",
+        "label": "FAQ",
+        "heading": "Haben Sie Fragen? Ich habe die Antworten.",
+        "jobPostersTitle": "Für Job-Poster",
+        "jobPosters": [
+            {
+                "q": "Ist es kostenlos, einen Reinigungsjob zu posten?",
+                "a": "Ja. Das Posten eines Jobs ist 100% kostenlos, und Sie zahlen nur, wenn der Job abgeschlossen und von Ihnen genehmigt wurde."
+            },
+            {
+                "q": "Wie weiß ich, welchen Reiniger ich auswählen soll?",
+                "a": "Sie können Reinigerprofile durchsuchen, Bewertungen lesen und Angebote vergleichen, um die beste Wahl für Ihre Bedürfnisse zu treffen."
+            },
+            {
+                "q": "Muss ich im Voraus bezahlen?",
+                "a": "Nein, die Zahlung erfolgt erst, nachdem der Reinigungsjob zu Ihrer Zufriedenheit abgeschlossen wurde."
+            },
+            {
+                "q": "Kann ich Bilder oder Videos für den Job hochladen?",
+                "a": "Ja, Sie können Bilder und Videos hochladen, damit die Reiniger den Arbeitsumfang besser verstehen."
+            },
+            {
+                "q": "Was passiert, wenn ich mit dem Job nicht zufrieden bin?",
+                "a": "Wir bieten eine Zufriedenheitsgarantie. Wenn Sie nicht zufrieden sind, arbeiten wir mit Ihnen und dem Reiniger zusammen, um das Problem zu lösen."
+            }
+        ],
+        "contractorsTitle": "Für Auftragnehmer",
+        "contractors": [
+            {
+                "q": "Wie funktioniert die kostenlose Testphase?",
+                "a": "Sie erhalten 3 Monate kostenlos, um unsere Plattform auszuprobieren. Danach kostet es 20 €/Monat, um weiterhin auf Jobs zuzugreifen."
+            },
+            {
+                "q": "Wie werde ich bezahlt?",
+                "a": "Die Zahlung erfolgt automatisch nach Abschluss des Jobs. Sie erhalten 90 % der Zahlung (10 % Plattformgebühr)."
+            },
+            {
+                "q": "Was passiert, wenn der Kunde meine Arbeit nicht genehmigt?",
+                "a": "Wir haben einen Streitbeilegungsprozess, um faire Ergebnisse für beide Parteien sicherzustellen."
+            },
+            {
+                "q": "Kann ich einen individuellen Preis vorschlagen, anstatt den festen zu akzeptieren?",
+                "a": "Ja, Sie können die Preise mit den Kunden basierend auf den spezifischen Anforderungen jedes Jobs verhandeln."
+            },
+            {
+                "q": "Muss ich während der kostenlosen Testphase trotzdem Provision zahlen?",
+                "a": "Nein, während Ihrer 3-monatigen kostenlosen Testphase behalten Sie 100 % Ihrer Einnahmen ohne Plattformgebühren."
+            }
+        ],
+        "stillQuestionsTitle": "Haben Sie noch Fragen?",
+        "stillQuestionsText": "Bitte kontaktieren Sie unser Team, wir helfen Ihnen gerne weiter",
+        "contactUs": "Kontaktieren Sie uns"
+    },
+    "contact": {
+        "heroTitle": "Wir sind hier, um zu helfen",
+        "heroSubtitle1": "Egal, ob Sie einen Reiniger einstellen oder Reinigungsdienste anbieten,",
+        "heroSubtitle2": "unser Support-Team ist bereit, Ihnen zu helfen.",
+        "contactUsButton": "Kontaktieren Sie uns",
+        "mainHeading": "WIR SIND HIER, UM ZU HELFEN",
+        "contactInfo": {
+            "email": "beispiel@teamwebflow.com",
+            "addressLine1": "4074 Ebert Summit Suite 375",
+            "addressLine2": "Lake Leonardchester",
+            "phone1": "+44 123 654 7890",
+            "phone2": "+44 123 654 7890, +44 123 654 7890"
+        },
+        "form": {
+            "heading": "Schreiben Sie uns eine Nachricht",
+            "name": "Ihr Name",
+            "email": "Ihre E-Mail",
+            "message": "Beschreiben",
+            "namePlaceholder": "Geben Sie Ihren Namen ein",
+            "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+            "messagePlaceholder": "Erzählen Sie uns von Ihrem Projekt oder Ihrer Frage",
+            "sending": "Wird gesendet...",
+            "sendButton": "Nachricht senden"
+        },
+        "formErrors": {
+            "nameRequired": "Name ist erforderlich",
+            "emailRequired": "E-Mail ist erforderlich",
+            "emailInvalid": "Geben Sie eine gültige E-Mail ein",
+            "messageRequired": "Nachricht ist erforderlich",
+            "messageMin": "Nachricht muss mindestens 10 Zeichen lang sein"
+        }
+    },
+    "card": {
+        "Price": "Preis",
+        "Date": "Datum",
+        "Time": "Uhrzeit",
+        "Accept": "Annehmen",
+        "MakeOffer": "Angebot machen",
+        "jobTitle": {
+            "Deep Cleaning for Apartment": "Tiefenreinigung für Wohnung"
+        },
+        "city": {
+            "Dhaka": "Dhaka",
+            "Banani": "Banani"
+        },
+        "area": {
+            "Banani": "Banani"
+        },
+        "cleaningCategory": {
+            "Deep Cleaning": "Tiefenreinigung",
+            "Residential": "Wohnbereich"
+        },
+        "extraRequirements": {
+            "Bring your own cleaning supplies": "Bringen Sie Ihre eigenen Reinigungsmittel mit"
+        }
+    },
+    "featureJob": {
+        "featuredCleaningJobs": "Ausgewählte Reinigungsjobs",
+        "latestCleaningJobs": "Neueste Reinigungsjobs für Sie",
+        "loadingJobs": "Lädt Jobs...",
+        "somethingWentWrong": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
+        "noJobsAvailable": "Derzeit sind keine Jobs verfügbar."
+    },
+    "testimonials": {
+        "title": "Referenzen",
+        "heading": "Was unsere Nutzer sagen",
+        "customers": "Kunden",
+        "contractors": "Auftragnehmer"
+    },
+    "allJobs": {
+        "location": "Ort",
+        "category": "Kategorie",
+        "date": "Datum",
+        "clearFilters": "Filter zurücksetzen",
+        "featuredCleaningJobs": "Ausgewählte Reinigungsjobs",
+        "latestCleaningJobs": "Neueste Reinigungsjobs in Ihrer Nähe",
+        "searchingJobs": "Suche nach Jobs...",
+        "somethingWentWrong": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+        "noJobsAvailable": "Derzeit keine Jobs verfügbar.",
+        "noJobsMatchFilters": "Keine Jobs passen zu Ihren Filtern. Versuchen Sie die Filter zu ändern."
+    },
+    "pricingPage": {
+        "loadingPlans": "Pläne werden geladen...",
+        "somethingWentWrong": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+        "planAndPricing": "Plan & Preise",
+        "simpleTransparentPricing": "Einfache, transparente Preise für alle",
+        "month": "Monat",
+        "enjoyFirst3MonthsFree": "Genießen Sie die ersten 3 Monate kostenlos. Danach wird der Plan fortgesetzt mit",
+        "perMonth": "pro Monat.",
+        "serviceFree": "Dieser Service ist für Jobanbieter komplett kostenlos.",
+        "getStarted": "Loslegen"
+    },
+    "contractors": {
+        "topContractorsNearYou": "Top Auftragnehmer in Ihrer Nähe",
+        "trustedCleaningExperts": "Vertrauenswürdige Reinigungsexperten, auf die Sie sich verlassen können",
+        "jobsCompleted": "abgeschlossene Jobs",
+        "viewProfile": "Profil ansehen",
+        "giveOrder": "Auftrag erteilen"
+    },
+    "sidebar": {
+        "user": {
+            "myOrder": "Meine Bestellung",
+            "profileSettings": "Profileinstellungen",
+            "helpSupport": "Hilfe & Support",
+            "subscription": "Abonnement"
+        },
+        "contractor": {
+            "myJobs": "Meine Aufträge",
+            "profileSettings": "Profileinstellungen",
+            "helpSupport": "Hilfe & Support",
+            "subscription": "Abonnement"
+        },
+        "admin": {
+            "approvals": "Genehmigungen",
+            "reviewsReports": "Bewertungen & Berichte",
+            "payments": "Zahlungen",
+            "plansPricing": "Pläne & Preise"
+        },
+        "logout": "Abmelden"
+    },
+    "approvalsPage": {
+        "title": "Genehmigungen",
+        "tabs": {
+            "poster": "Poster-Anfragen",
+            "contractor": "Auftragnehmer-Anfragen",
+            "job": "Stellenanzeigen-Anfragen"
+        }
+    },
+    "posterRequest": {
+        "joinedDate": "Beitrittsdatum",
+        "approve": "Genehmigen",
+        "viewDetails": "Details ansehen",
+        "noRequests": "Keine Poster-Anfragen verfügbar",
+        "toast": {
+            "success": "Jobposter erfolgreich genehmigt!",
+            "error": "Etwas ist schief gelaufen!"
+        }
+    },
+    "jobPostersRequest": {
+        "title": "Anfrage der Jobposter",
+        "loading": "Wird geladen...",
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "approve": "Genehmigen",
+        "cancel": "Ablehnen",
+        "giveSuggestion": "Vorschlag geben",
+        "send": "Senden",
+        "approvedSuccess": "Jobposter erfolgreich genehmigt!",
+        "rejectedSuccess": "Jobposter erfolgreich abgelehnt!",
+        "error": "Etwas ist schief gelaufen!"
+    },
+    "contractorRequest": {
+        "loading": "Wird geladen...",
+        "joinedDate": "Beitrittsdatum",
+        "approve": "Genehmigen",
+        "viewDetails": "Details ansehen",
+        "noRequest": "Keine Anfragen von Auftragnehmern verfügbar",
+        "approvedSuccess": "Auftragnehmer erfolgreich genehmigt!",
+        "error": "Etwas ist schief gelaufen!"
+    },
+    "contractorApproval": {
+        "loading": "Wird geladen...",
+        "header": "Auftragnehmer-Anfrage",
+        "bio": "Bio",
+        "services": "Dienstleistungen",
+        "serviceArea": "Servicebereich",
+        "companyInfo": "Firmeninformationen",
+        "companyName": "Firmenname",
+        "phone": "Telefon",
+        "email": "E-Mail",
+        "fullAddress": "Vollständige Adresse",
+        "companyDocs": "Firmendokumente",
+        "taxNumber": "Steuernummer",
+        "insuranceNumber": "Versicherungsnummer",
+        "insuranceDoc": "Versicherungsdokument",
+        "insuranceDocAlt": "Versicherungsdokument",
+        "personalInfo": "Persönliche Informationen",
+        "contractorName": "Auftragnehmername",
+        "paymentInfo": "Zahlungsinformationen",
+        "paymentMethod": "Zahlungsmethode",
+        "approve": "Genehmigen",
+        "cancel": "Abbrechen",
+        "giveSuggestion": "Vorschlag geben",
+        "send": "Senden",
+        "approvedSuccess": "Auftragnehmer erfolgreich genehmigt!",
+        "rejectedSuccess": "Auftragnehmer erfolgreich abgelehnt!",
+        "error": "Etwas ist schief gelaufen!"
+    },
+    "jobApproval": {
+        "loading": "Wird geladen...",
+        "approve": "Genehmigen",
+        "approveSuccess": "Job erfolgreich genehmigt!",
+        "error": "Etwas ist schiefgelaufen!",
+        "viewDetails": "Details ansehen",
+        "noJobRequest": "Keine Jobanfragen verfügbar",
+        "joinedDate": "Beitrittsdatum"
+    },
+    "jobApprovalDetail": {
+        "loading": "Wird geladen...",
+        "header": "Jobanfrage",
+        "jobTitle": "Jobtitel",
+        "cleaningCategory": "Reinigungskategorie",
+        "jobDescription": "Jobbeschreibung",
+        "street": "Straße",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "contactInfo": "Kontaktinformationen",
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "notification": "Benachrichtigungseinstellung",
+        "inApp": "In-App-Benachrichtigungen",
+        "toolsProvided": "[Jobposter stellt Reinigungswerkzeuge bereit]",
+        "toolsNotProvided": "[Der Auftraggeber stellt keine Reinigungsgeräte zur Verfügung]",
+        "attachments": "Anhänge",
+        "accept": "Annehmen",
+        "cancel": "Abbrechen",
+        "approveSuccess": "Job Post erfolgreich genehmigt!",
+        "rejectSuccess": "Job Post Genehmigung abgelehnt!",
+        "error": "Etwas ist schiefgelaufen!"
+    },
+    "reviewReport": {
+        "header": "Bewertungen & Berichte",
+        "jobPosterReviews": "Jobposter Bewertungen",
+        "contractorReviews": "Auftragnehmer Bewertungen",
+        "jobReports": "Jobposter Berichte",
+        "contractorReports": "Auftragnehmer Berichte"
+    },
+    "jobPosterReview": {
+        "loading": "Lädt...",
+        "approve": "Genehmigen",
+        "decline": "Ablehnen",
+        "review": "Bewertung",
+        "rating": "Sternebewertung",
+        "approveSuccess": "Diese Bewertung wurde erfolgreich genehmigt!",
+        "rejectSuccess": "Diese Bewertung wurde erfolgreich abgelehnt!",
+        "error": "Etwas ist schief gelaufen!",
+        "noPending": "KEINE AUSSTEHENDEN KUNDENBEWERTUNGEN VERFÜGBAR"
+    },
+    "contractorReview": {
+        "loading": "Lädt...",
+        "approve": "Genehmigen",
+        "decline": "Ablehnen",
+        "review": "Bewertung",
+        "rating": "Sternebewertung",
+        "approveSuccess": "Diese Bewertung wurde erfolgreich genehmigt!",
+        "rejectSuccess": "Diese Bewertung wurde erfolgreich abgelehnt!",
+        "error": "Etwas ist schief gelaufen!",
+        "noPending": "KEINE AUSSTEHENDEN AUFTRAGNEHMER-BEWERTUNGEN VERFÜGBAR"
+    },
+    "jobPosterReport": {
+        "loading": "Lädt...",
+        "report": "Bericht",
+        "description": "Beschreibung",
+        "viewDetails": "Details anzeigen",
+        "noData": "KEINE BERICHTSDATEN VERFÜGBAR"
+    },
+    "contractorReport": {
+        "loading": "Lädt...",
+        "review": "Bewertung",
+        "viewDetails": "Details anzeigen",
+        "noData": "KEIN AUFTRAGNEHMERBERICHT VERFÜGBAR"
+    },
+    "reportDetails": {
+        "loading": "Lädt...",
+        "header": "Berichtsdetails",
+        "report": "Bericht",
+        "description": "Beschreibung",
+        "attachments": "Anhänge",
+        "selectAction": "Aktion auswählen",
+        "sendWarning": "Warnung senden",
+        "permBlock": "Dauerhaft blockieren",
+        "submitAction": "Aktion senden",
+        "sending": "Senden...",
+        "notificationSent": "Aktionsnachricht erfolgreich gesendet!",
+        "notificationFailed": "Fehler beim Senden der Benachrichtigung an den Auftragnehmer!",
+        "actionFailed": "Fehler beim Senden der Aktion"
+    },
+    "payments": {
+        "loading": "Lädt...",
+        "header": "Zahlungen",
+        "date": "Datum",
+        "type": "Art",
+        "user": "Benutzer",
+        "amount": "Betrag",
+        "platformEarning": "Plattform-Einnahmen",
+        "types": {
+            "job": "Job",
+            "subscription": "Abonnement"
+        }
+    },
+    "jobPoster": {
+        "loadingPlans": "Pläne werden geladen...",
+        "errorLoadingPlans": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
+        "perMonth": "Monat",
+        "editPlan": "Plan bearbeiten",
+        "planTypes": {
+            "basic": "Basis",
+            "standard": "Standard",
+            "premium": "Premium"
+        }
+    },
+    "pricing": {
+        "planName": "Planname",
+        "planType": "Planart",
+        "price": "Preis (£)",
+        "facilities": "Ausstattung",
+        "duration": "Dauer (Tage)",
+        "saveChanges": "Änderungen speichern",
+        "cancel": "Abbrechen",
+        "addNew": "Neu hinzufügen",
+        "loading": "Wird geladen...",
+        "editPlanFor": "Plan bearbeiten für {{role}}"
+    },
+    "myJobs": {
+        "allOffers": "Alle Angebote",
+        "pendingJobs": "Ausstehende Jobs",
+        "completedJobs": "Abgeschlossene Jobs"
+    },
+    "pendingOffers": {
+        "loading": "Wird geladen...",
+        "noPendingJobs": "Keine ausstehenden Jobs verfügbar",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "viewOffers": "Angebote ansehen"
+    },
+    "houseCleaningOffer": {
+        "makeOffer": "Ein Angebot machen",
+        "fullAddress": "Vollständige Adresse",
+        "dateTime": "Datum & Uhrzeit",
+        "contactInfo": "Kontaktinformation",
+        "street": "Straße",
+        "area": "Bereich",
+        "city": "Stadt",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "name": "Name",
+        "phone": "Telefon",
+        "email": "E-Mail",
+        "counterOfferFromPoster": "Sie haben ein Gegenangebot vom Auftraggeber erhalten:",
+        "yourOffer": "Dein Angebot",
+        "price": "Preis",
+        "declineOffer": "Angebot ablehnen",
+        "acceptOffer": "Angebot akzeptieren",
+        "sendCounter": "Gegenangebot senden",
+        "sendOffer": "Angebot senden",
+        "pleaseEnterPrice": "Bitte geben Sie den Angebotspreis ein!"
+    },
+    "pendingJobsCard": {
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "updateProgress": "Fortschritt aktualisieren",
+        "noPendingJob": "KEINE AUSSTEHENDEN JOBS VERFÜGBAR"
+    },
+    "progressDetails": {
+        "pendingJob": "Ausstehender Auftrag",
+        "updateProgress": "Fortschritt aktualisieren",
+        "estimatedTime": "Geschätzte Zeit",
+        "photos": "Fotos",
+        "videos": "Videos",
+        "addPhoto": "Foto hinzufügen",
+        "addVideo": "Video hinzufügen",
+        "chooseFile": "Datei wählen",
+        "noFileChosen": "Keine Datei ausgewählt",
+        "saveUpdate": "Aktualisierung speichern",
+        "selectStatus": "Status auswählen"
+    },
+    "jobs": {
+        "loading": "Wird geladen...",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "giveReview": "Eine Bewertung abgeben",
+        "noCompletedJobs": "Noch keine abgeschlossenen Aufträge"
+    },
+    "reviews": {
+        "title": "Eine Bewertung abgeben",
+        "ratingHint": "Tippe auf einen Stern, um deine Erfahrung mit diesem Anbieter zu bewerten.",
+        "reviewLabel": "Bewertung",
+        "reviewPlaceholder": "Hier schreiben...",
+        "submit": "Bewertung absenden",
+        "posterTitle": "Bewertung des Auftraggebers",
+        "posterExample": "Die Buchung war einfach und transparent. Ich habe den Auftrag in weniger als 5 Minuten gepostet und fast sofort Antworten erhalten. Unser Büro war noch nie sauberer.",
+        "report": "Gegen Auftraggeber melden",
+        "selectRating": "Bitte wählen Sie eine Bewertung aus",
+        "writeReview": "Bitte schreiben Sie eine Bewertung",
+        "success": "Bewertung erfolgreich hinzugefügt!",
+        "error": "Ein Fehler ist aufgetreten"
+    },
+    "reportJobPoster": {
+        "title": "Jobanbieter melden",
+        "reasonTitle": "Warum melden Sie diesen Auftrag?",
+        "reasonDescription": "Nur markierte Aufträge werden gemeldet. Ihre Identität bleibt vertraulich.",
+        "rudeTitle": "Unhöfliches Verhalten",
+        "rudeDescription": "Beschreiben Sie dies",
+        "descriptionPlaceholder": "Beschreiben...",
+        "attachmentsTitle": "Anhänge senden",
+        "uploadPhotos": "Fotos hochladen",
+        "uploadVideos": "Videos hochladen",
+        "submit": "Bericht senden",
+        "selectReason": "Bitte wählen Sie einen Grund aus",
+        "success": "Jobanbieter erfolgreich gemeldet!",
+        "error": "Ein Fehler ist aufgetreten",
+        "reasons": {
+            "Scammer": "Betrüger",
+            "Dangerous_item": "Gefährlicher Artikel",
+            "Violence": "Gewalt",
+            "I_don't_like_this": "Das gefällt mir nicht",
+            "Not_available_to_buy": "Nicht verfügbar zum Kauf",
+            "Illegal_harassment": "Illegale Belästigung",
+            "Null_behavior": "Null Verhalten",
+            "Something_else": "Etwas anderes"
+        }
+    },
+    "contractorProfile": {
+        "title": "Auftragnehmerprofil",
+        "editProfile": "Profil bearbeiten",
+        "matchmeet": "Matchmeet",
+        "jobsCompleted": "abgeschlossene Aufträge",
+        "services": "Dienstleistungen",
+        "availability": "Verfügbarkeit",
+        "availableDays": "Sonntag bis Donnerstag",
+        "to": "bis",
+        "completedProjects": "Abgeschlossene Projekte",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "reviews": "Bewertungen",
+        "anonymous": "Anonym"
+    },
+    "profileEdit": {
+        "profileSettings": "Profil-Einstellungen",
+        "addBio": "Biografie hinzufügen",
+        "addServices": "Dienstleistungen hinzufügen",
+        "addServiceAreas": "Servicebereiche hinzufügen",
+        "availability": "Verfügbarkeit",
+        "fromDate": "Von Datum",
+        "toDate": "Bis Datum",
+        "time": "Zeit",
+        "companyName": "Firmenname",
+        "companyPhone": "Firmentelefon",
+        "companyEmail": "Firmen-E-Mail",
+        "companyAddress": "Firmenadresse",
+        "contractorName": "Name des Auftragnehmers",
+        "personalPhone": "Persönliches Telefon",
+        "personalEmail": "Persönliche E-Mail",
+        "saveChanges": "Änderungen speichern",
+        "cancel": "Abbrechen",
+        "uploadNewPhoto": "Neues Foto hochladen",
+        "add": "Hinzufügen",
+        "addMore": "Mehr hinzufügen",
+        "enterServiceName": "Dienstname eingeben",
+        "enterPostcodeOrArea": "Postleitzahl oder Bereich eingeben"
+    },
+    "helpSupport": {
+        "helpSupport": "Hilfe & Support",
+        "yourName": "Ihr Name",
+        "yourEmail": "Ihre E-Mail",
+        "describe": "Beschreiben",
+        "sendMessage": "Nachricht senden",
+        "messageSent": "Nachricht erfolgreich gesendet!",
+        "somethingWentWrong": "Etwas ist schief gelaufen!"
+    },
+    "subscriptionNotice": {
+        "subscription": "Abonnement",
+        "accessExpiring": "Ihr Zugriff läuft bald ab",
+        "continueFeatures": "Bieten Sie weiterhin auf Jobs, erweitern Sie Ihr Reinigungsunternehmen und greifen Sie auf Premium-Funktionen zu.",
+        "plan": "Plan",
+        "expirationDate": "Ablaufdatum",
+        "daysLeft": "Verbleibende Tage",
+        "days": "Tage",
+        "cancelPlan": "Plan kündigen",
+        "planCanceled": "Plan erfolgreich gekündigt!",
+        "somethingWentWrong": "Etwas ist schief gelaufen!",
+        "noData": "Keine Abonnementdaten verfügbar.",
+        "noActiveSubscription": "Kein aktives Abonnement"
+    },
+    "myOrder": {
+        "allOrders": "Alle Bestellungen",
+        "allOffers": "Alle Angebote",
+        "pendingOrders": "Ausstehende Bestellungen",
+        "completedOrders": "Abgeschlossene Bestellungen"
+    },
+    "myOrderCard": {
+        "loading": "Wird geladen...",
+        "jobImageAlt": "Jobbild",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "edit": "Bearbeiten",
+        "noJobs": "Noch keine Jobs gepostet"
+    },
+    "postEdit": {
+        "editPost": "Beitrag bearbeiten",
+        "jobTitle": "Jobtitel",
+        "jobTitleRequired": "Jobtitel ist erforderlich",
+        "cleaningCategory": "Reinigungskategorie",
+        "selectCategory": "Kategorie auswählen",
+        "residential": "Privat",
+        "commercial": "Gewerblich",
+        "office": "Büro",
+        "jobDescription": "Jobbeschreibung",
+        "street": "Straße",
+        "area": "Gebiet",
+        "city": "Stadt",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "extraRequirements": "Zusätzliche Anforderungen",
+        "ownTools": "Haben Sie eigene Reinigungswerkzeuge?",
+        "thumbnail": "Vorschaubild",
+        "photos": "Fotos",
+        "videos": "Videos",
+        "addNew": "Neu hinzufügen",
+        "contactInfo": "Kontaktinformationen",
+        "name": "Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "notification": "Benachrichtigungsmethode",
+        "selectNotification": "Benachrichtigung auswählen",
+        "inApp": "In App",
+        "sms": "SMS",
+        "updatePost": "Beitrag aktualisieren",
+        "loading": "Lädt...",
+        "success": "erfolgreich aktualisiert!",
+        "error": "Etwas ist schiefgelaufen!"
+    },
+    "postOffers": {
+        "loading": "Lädt...",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "job": "Job",
+        "trackProgress": "Fortschritt verfolgen",
+        "viewOffers": "Angebote ansehen",
+        "noOfferJobYet": "Noch keine Angebotsjobs"
+    },
+    "myPostedJobs": {
+        "myPostedJobs": "Meine veröffentlichten Jobs",
+        "exampleJob": "Hausreinigung",
+        "receivedCounterOffer": "Sie haben ein Gegenangebot von einem Auftragnehmer für Ihren veröffentlichten Job erhalten:",
+        "yourPrice": "Original Price",
+        "contractorOffer": "Conunter Offer",
+        "declineOffer": "Angebot ablehnen",
+        "acceptOffer": "Angebot annehmen",
+        "taskAccepted": "Aufgabe erfolgreich akzeptiert!",
+        "offerDeclined": "Angebot erfolgreich abgelehnt!",
+        "somethingWentWrong": "Etwas ist schief gelaufen!"
+    },
+    "pendingOrders": {
+        "loading": "Lädt...",
+        "price": "Preis",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "trackProgress": "Fortschritt verfolgen",
+        "noAcceptedJob": "NOCH KEIN AKZEPTIERTER JOB"
+    },
+    "trackProgressReview": {
+        "trackProgress": "Fortschritt verfolgen",
+        "orderConfirmed": "Bestellung bestätigt",
+        "inProcess": "In Bearbeitung",
+        "employeeAssigned": "Mitarbeiter zugewiesen",
+        "arrived": "Angekommen",
+        "completed": "Abgeschlossen",
+        "estimatedDate": "Voraussichtliches Datum",
+        "estimatedTime": "Voraussichtliche Zeit",
+        "contractor": "Auftragnehmer",
+        "serviceCompleted": "Dienst erfolgreich abgeschlossen!",
+        "yourServiceCompleted": "Ihr {{jobTitle}}-Service wurde von {{contractor}} abgeschlossen."
+    },
+    "profileSettings": {
+        "title": "Profile-Einstellungen",
+        "profilePhoto": "Profilfoto",
+        "uploadPhoto": "Neues Foto hochladen",
+        "photoInstructions": "Mindestens 300*300 px empfohlen. JPG oder PNG ist erlaubt",
+        "fullName": "Vollständiger Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "saveChanges": "Änderungen speichern",
+        "cancel": "Abbrechen",
+        "changePassword": "Passwort ändern",
+        "currentPassword": "Aktuelles Passwort",
+        "newPassword": "Neues Passwort",
+        "saving": "Speichern...",
+        "changing": "Ändern...",
+        "validation": {
+            "required": "{{field}} ist erforderlich",
+            "invalidEmail": "Ungültige E-Mail-Adresse",
+            "invalidPhone": "Bitte geben Sie eine gültige Telefonnummer ein",
+            "minLengthPassword": "Das Passwort muss mindestens {{count}} Zeichen lang sein"
+        },
+        "success": {
+            "profileUpdated": "Profil erfolgreich aktualisiert!",
+            "passwordChanged": "Passwort erfolgreich geändert!"
+        },
+        "error": {
+            "profileUpdateFailed": "Profil konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.",
+            "passwordChangeFailed": "Passwort konnte nicht geändert werden. Bitte versuchen Sie es erneut."
+        }
+    },
+    "createJob": {
+        "title": "Neuen Beitrag erstellen",
+        "jobTitle": "Jobtitel",
+        "jobTitlePlaceholder": "Jobtitel",
+        "jobTitleRequired": "Jobtitel ist erforderlich",
+        "cleaningCategory": "Reinigungskategorie",
+        "selectCategory": "Kategorie auswählen",
+        "residential": "Wohnbereich",
+        "commercial": "Gewerblich",
+        "office": "Büro",
+        "jobDescription": "Jobbeschreibung",
+        "descriptionPlaceholder": "Beschreiben",
+        "street": "Straße",
+        "streetPlaceholder": "Straße",
+        "area": "Gebiet",
+        "areaPlaceholder": "Gebiet",
+        "city": "Stadt",
+        "cityPlaceholder": "Stadt",
+        "price": "Preis",
+        "pricePlaceholder": "Betrag",
+        "date": "Datum",
+        "datePlaceholder": "25/2024",
+        "time": "Uhrzeit",
+        "extraRequirements": "Zusätzliche Anforderungen",
+        "extraRequirementsPlaceholder": "Beschreiben",
+        "hasCleaningItems": "Haben Sie eigene Reinigungsgeräte?",
+        "uploadThumbnail": "Thumbnail hochladen",
+        "uploadPhotos": "Fotos hochladen",
+        "uploadVideos": "Videos hochladen",
+        "addNew": "Neu hinzufügen",
+        "fileFormats": "Formate: JPG, PNG, JPEG – Max. 5MB",
+        "contactInformation": "Kontaktinformationen",
+        "name": "Name",
+        "namePlaceholder": "Ihr Name",
+        "email": "E-Mail",
+        "emailPlaceholder": "E-Mail",
+        "phone": "Telefon",
+        "notificationPreference": "Benachrichtigungseinstellungen",
+        "inAppNotifications": "In-App-Benachrichtigungen",
+        "emailNotifications": "E-Mail-Benachrichtigungen",
+        "smsNotifications": "SMS-Benachrichtigungen",
+        "postNow": "Jetzt posten",
+        "posting": "Wird gepostet...",
+        "postSuccess": "Beitrag erfolgreich erstellt! Warten auf die Genehmigung durch den Admin!",
+        "postError": "Etwas ist schiefgelaufen!"
+    },
+    "login": {
+        "getStarted": "Los geht’s",
+        "loginBtn": "Einloggen",
+        "signupBtn": "Registrieren"
+    },
+    "loginone": {
+        "welcomeTitle": "Willkommen zurück",
+        "welcomeDescription": "Willkommen zurück! Mach weiter, wo du aufgehört hast, und verbessere deine Fähigkeiten.",
+        "emailLabel": "E-Mail",
+        "emailPlaceholder": "email@gmail.com",
+        "passwordLabel": "Passwort",
+        "passwordPlaceholder": "********",
+        "forgotPassword": "Passwort vergessen?",
+        "loginBtn": "Einloggen",
+        "noAccount": "Du hast noch kein Konto?",
+        "signupLink": "Kostenlos registrieren",
+        "loadingToast": "Anmeldung läuft...",
+        "successToast": "Anmeldung erfolgreich!",
+        "errorToast": "Anmeldung fehlgeschlagen. Bitte versuche es erneut."
+    },
+    "signupone": {
+        "title": "Registrieren",
+        "jobPosterOption": "Als Auftraggeber registrieren",
+        "contractorOption": "Als Auftragnehmer registrieren"
+    },
+    "jobposterregister": {
+        "title": "Konto erstellen",
+        "companyLabel": "Firmenname / Vollständiger Name",
+        "companyPlaceholder": "Ihr Firmenname",
+        "companyError": "Firmenname ist erforderlich",
+        "phoneLabel": "Telefonnummer",
+        "phonePlaceholder": "123 456 789",
+        "phoneError": "Telefonnummer ist erforderlich",
+        "emailLabel": "E-Mail",
+        "emailPlaceholder": "mail@gmail.com",
+        "emailError": "E-Mail ist erforderlich",
+        "passwordLabel": "Passwort",
+        "passwordPlaceholder": "Passwort",
+        "passwordError": "Passwort ist erforderlich",
+        "button": "Registrieren",
+        "footerText": "Bereits ein Konto?",
+        "loginLink": "Einloggen",
+        "creatingUser": "Benutzer wird erstellt...",
+        "success": "Benutzer erfolgreich erstellt!",
+        "error": "Etwas ist schief gelaufen!"
+    },
+    "contractorregister": {
+        "title": "Erstellen Sie ein Auftragnehmerkonto",
+        "companyLabel": "Firmenname",
+        "companyPlaceholder": "Name",
+        "companyError": "Firmenname ist erforderlich",
+        "phoneLabel": "Telefonnummer",
+        "phonePlaceholder": "XX XXX XXXX",
+        "phoneError": "Telefonnummer ist erforderlich",
+        "emailLabel": "E-Mail",
+        "emailPlaceholder": "email@gmail.com",
+        "emailError": "E-Mail ist erforderlich",
+        "emailInvalid": "Ungültige E-Mail-Adresse",
+        "addressLabel": "Vollständige Adresse",
+        "addressPlaceholder": "El exit",
+        "addressError": "Adresse ist erforderlich",
+        "nextButton": "Weiter",
+        "footerText": "Bereits ein Konto?",
+        "loginLink": "Einloggen"
+    },
+    "contractorinfo": {
+        "title": "Auftragnehmer Informationen",
+        "contractorNameLabel": "Auftragnehmer Name",
+        "contractorNamePlaceholder": "Name",
+        "contractorNameError": "Auftragnehmer Name ist erforderlich",
+        "phoneLabel": "Telefon",
+        "phonePlaceholder": "(0) 000 000 000",
+        "phoneError": "Telefonnummer ist erforderlich",
+        "emailLabel": "E-Mail",
+        "emailPlaceholder": "email@gmail.com",
+        "emailError": "E-Mail ist erforderlich",
+        "emailInvalid": "Ungültige E-Mail-Adresse",
+        "nextButton": "Weiter",
+        "footerText": "Bereits ein Konto?",
+        "loginLink": "Einloggen"
+    },
+    "contractorServices": {
+        "title": "Auftragnehmer Informationen",
+        "bioLabel": "Bio hinzufügen",
+        "bioPlaceholder": "Beschreiben Sie sich",
+        "bioError": "Bio ist erforderlich",
+        "servicesLabel": "Dienstleistungen hinzufügen",
+        "serviceOptions": [
+            "Gewerblich",
+            "Wohngebäude",
+            "Büro"
+        ],
+        "serviceAreasLabel": "Servicebereiche hinzufügen",
+        "serviceAreaPlaceholder": "Bereich",
+        "serviceAreaError": "Mindestens ein Servicebereich ist erforderlich",
+        "addMoreButton": "Mehr hinzufügen",
+        "continueButton": "Weiter"
+    },
+    "companyDocuments": {
+        "title": "Firmeninformationen",
+        "taxNumberLabel": "Steuernummer hinzufügen",
+        "taxNumberPlaceholder": "46741 46646",
+        "insuranceNumberLabel": "Versicherungsnummer hinzufügen",
+        "insuranceNumberPlaceholder": "46741 46646",
+        "continueButton": "Weiter"
+    },
+    "contractorRegistration": {
+        "title": "Firmeninformationen",
+        "profilePictureLabel": "Contractor Profilbild hochladen",
+        "profilePicturePlaceholder": "Keine Datei ausgewählt",
+        "profilePictureFormats": "Formate: JPG, PNG, JPEG - Max 5MB pro Datei",
+        "insuranceLabel": "Versicherungsdokument hochladen",
+        "insurancePlaceholder": "Keine Datei ausgewählt",
+        "emailLabel": "E-Mail",
+        "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+        "passwordLabel": "Passwort",
+        "passwordPlaceholder": "Geben Sie Ihr Passwort ein",
+        "chooseFile": "Datei auswählen",
+        "registerButton": "Registrieren",
+        "loginPrompt": "Haben Sie bereits ein Konto?",
+        "loginLink": "Anmelden"
+    }
+}

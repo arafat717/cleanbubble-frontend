@@ -1,0 +1,1092 @@
+{
+    "nav": {
+        "home": "Home",
+        "browse": "Browse jobs",
+        "post": "Post a Job",
+        "pricing": "Pricing",
+        "dashboard": "Dashboard"
+    },
+    "buttons": {
+        "getStarted": "Get Started",
+        "logOut": "Log Out",
+        "accept": "Accept",
+        "makeOffer": "Make Offer",
+        "bookNow": "Book Now",
+        "learnMore": "Learn More"
+    },
+    "forms": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "phone": "Phone Number",
+        "message": "Message",
+        "submit": "Send Message"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "cancel": "Cancel",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "location": "Location"
+    },
+    "hero": {
+        "headline": "Where Clean Spaces",
+        "heldlinetwo": "Trusted Hands",
+        "description": "Whether you're hiring or offering cleaning services, our platform connects you with the right people.",
+        "button": "Start as a Contractor"
+    },
+    "howItWorks": {
+        "sectionTitle": "How it works",
+        "jobPosters": "JOB POSTERS",
+        "posterStep1": "Post your job – Select time, date, and location",
+        "posterStep2": "Get matched with available service providers",
+        "posterStep3": "Review offers and choose your preferred provider",
+        "posterStep4": "Approve the job once complete & make payment securely",
+        "cleaningContractors": "Cleaning Contractors",
+        "contractorStep1": "Sign up and create your service profile",
+        "contractorStep2": "View and apply for suitable jobs",
+        "contractorStep3": "Mark job as complete with proof",
+        "contractorStep4": "Get paid after job is approved (10% fee deducted)"
+    },
+    "topCategoriesJob": {
+        "sectionTitle": "Top Job Categories",
+        "headlinePart1": "Cleaning",
+        "headlinePart2": "Services",
+        "headlinePart3": "People are looking for",
+        "residentialTitle": "Residential Cleaning",
+        "residentialDesc": "For homes, flats, and apartments. Keep your living space fresh and spotless.",
+        "commercialTitle": "Commercial Cleaning",
+        "commercialDesc": "Perfect for shops, restaurants, and buildings – high-standard cleaning that reflects your brand.",
+        "officeTitle": "Office Cleaning",
+        "officeDesc": "Maintain a tidy, productive workspace with routine or scheduled cleanings",
+        "outdoorTitle": "Outdoor & Garden Cleaning",
+        "outdoorDesc": "Clear up outdoor areas, patios, driveways, or garden spaces – mess-free and maintained."
+    },
+    "ctaSection": {
+        "firstBlockLine1": "Once a job is accepted and completed, clients can review the work before approving payment. Our platform",
+        "firstBlockLine2": "deducts a 10% brokerage commission automatically, and the rest is sent to the cleaner.",
+        "secondBlockLine1": "Independent cleaners and companies browse available jobs by category and location. Only verified providers",
+        "secondBlockLine2": "with active subscriptions can apply, ensuring a professional experience every time.",
+        "getStartedTitle": "Get Started in Minutes",
+        "getStartedDescription": "Post your first cleaning job or create a service profile — it’s quick, secure, and easy.",
+        "joinAsContractor": "Join as a Contractor",
+        "postJobNow": "Post a Job Now"
+    },
+    "jobHero": {
+        "headline1": "Browse",
+        "headline2": "Cleaning Jobs",
+        "headline3": "Available Near You",
+        "description": "Find jobs that match your cleaning expertise. Apply directly or offer your own rate. Only approved contractors can bid.",
+        "cta": "Start as a Contractor"
+    },
+    "readySection": {
+        "title": "Ready to Get Started?",
+        "subtitle": "Whether you need a cleaner or want to grow your cleaning business, everything starts here.",
+        "cta": "Join as a Contractor"
+    },
+    "postAJob": {
+        "headline1": "Browse",
+        "headline2": "Cleaning Jobs",
+        "headline3": "Available Near You",
+        "description": "Find jobs that match your cleaning expertise. Apply directly or offer your own rate. Only approved contractors can bid.",
+        "cta": "Start as a Contractor"
+    },
+    "postJobPage": {
+        "badge": "How it works for",
+        "headline": "How It Works for",
+        "highlight": "JOB POSTERS",
+        "steps": {
+            "step1": "Post your job – Select time, date, and location",
+            "step2": "Get matched with available service providers",
+            "step3": "Review offers and choose your preferred provider",
+            "step4": "Approve the job once complete & make payment securely"
+        }
+    },
+    "postAJobForm": {
+        "topJobCategories": "Top Job Categories",
+        "getTheCleaningDone": "Get the",
+        "cleaning": "Cleaning",
+        "doneWithoutStress": "Done — Without the Stress",
+        "jobTitle": "Job Title",
+        "jobTitleRequired": "Job title is required",
+        "cleaningCategory": "Cleaning Category",
+        "selectCategory": "Select category",
+        "residential": "Residential",
+        "commercial": "Commercial",
+        "office": "Office",
+        "jobDescription": "Job Description",
+        "street": "Street",
+        "area": "Area",
+        "city": "City",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "extraRequirements": "Extra Requirements",
+        "ownCleaningTools": "Do you have your own cleaning tools?",
+        "uploadThumbnail": "Upload Thumbnail",
+        "formats": "Formats: JPG, PNG, JPEG – Max 5MB",
+        "uploadPhotos": "Upload Photos",
+        "addNew": "Add new",
+        "uploadVideos": "Upload Videos",
+        "contactInformation": "Contact Information",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "notificationPreference": "Notification Preference",
+        "inAppNotifications": "In-app notifications",
+        "emailNotifications": "Email notifications",
+        "smsNotifications": "SMS notifications",
+        "postNow": "Post Now",
+        "describe": "Describe",
+        "yourName": "Your Name",
+        "emailPlaceholder": "Email",
+        "amount": "amount",
+        "am": "AM",
+        "pm": "PM",
+        "errorMessage": "Please login as a job poster to post your job!",
+        "success": "Job post successfully!",
+        "error": "Something went wrong!",
+        "posting": "Posting..."
+    },
+    "privacyPolicy": {
+        "title": "Privacy Policy",
+        "intro": "At [Your Name], we value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and share information when you use our website.",
+        "whoWeAre": "Who We Are",
+        "whoWeAreDesc": "We are [Your Name], a [Your business type] business that [brief overview/description with contact details].",
+        "contactUs": "If you have questions about this privacy policy contact:",
+        "email": "Email",
+        "emailAddress": "privacy@yoursite.com",
+        "whatInfoWeCollect": "What Information We Collect",
+        "infoCollectDesc": "We collect the following types of information depending on how you use the platform",
+        "partnerOffers": "If You're on Our Partner Offers",
+        "infoList1": [
+            "Name, email, and contact number",
+            "Job, location and business details",
+            "Information about your business needs",
+            "Payment details (via third party processors)"
+        ],
+        "infoList2": [
+            "Name, email, business details",
+            "Profile data and business information",
+            "Business performance data",
+            "Supporting payment details",
+            "Technical data of our business use (Anonymized)"
+        ],
+        "howWeUseInfo": "How We Use Your Information",
+        "howWeUseList": [
+            "Match you properly with suitable candidates",
+            "Facilitate communication and coordinate business",
+            "Process payments and manage accounts",
+            "Improve our services and user experience",
+            "Provide customer support",
+            "Prevent fraud and abuse",
+            "Comply with legal obligations"
+        ],
+        "whoWeShareInfoWith": "Who We Share Your Information With",
+        "shareInfoDesc": "We never sell your data. We only share limited information with:",
+        "shareInfoList": [
+            "Contractors or clients (after job matches)",
+            "Payment processors (Stripe, PayPal)",
+            "Legal authorities (if required by law)",
+            "Third-party services (if required by law)"
+        ],
+        "howWeProtectData": "How We Protect Your Data",
+        "protectDataDesc": "We use industry-standard encryption and secure storage methods. All data is stored on secure servers, and access is strictly limited to authorized personnel.",
+        "gdprCompliance": "GDPR Compliance (Your Rights)",
+        "gdprRightsDesc": "As a GDPR user you have the right to:",
+        "gdprRightsList": [
+            "Access your data",
+            "Update incorrect data",
+            "Delete your data",
+            "Restrict data processing",
+            "Object to data processing",
+            "Export your data (data portability)"
+        ],
+        "dataRetention": "Data Retention",
+        "dataRetentionDesc": "We retain your data as long as your account is active or as needed to fulfill legal, commercial, or platform requirements. You may request deletion at any time.",
+        "cookies": "Cookies",
+        "cookiesDesc": "We use cookies to:",
+        "cookiesList": [
+            "Keep you logged in",
+            "Track site performance and analytics",
+            "Improve user experience"
+        ],
+        "thirdPartyLinks": "Third Party Links",
+        "thirdPartyLinksDesc": "Our website may include links to third party websites. Any personal data collected by these sites is not our responsibility for their privacy practices.",
+        "changesPolicy": "Changes to This Policy",
+        "changesPolicyDesc": "We may update this Privacy Policy from time to time. All changes will be posted on this page with the 'effective date' updated at the top."
+    },
+    "termsOfService": {
+        "title": "Terms of Use",
+        "intro": "These Terms of Use govern your use of the platform, whether you are a Job Poster (Client) or Contractor (Service Provider). By using our platform, you agree to these terms.",
+        "acceptanceOfTerms": "Acceptance of Terms",
+        "acceptanceText": "By accessing or using the platform, you agree to be bound by these Terms. If you do not agree, please do not use the platform.",
+        "userRoles": "User Roles",
+        "jobPosters": "a. Job Posters (Clients):",
+        "jobPostersText": "Can create job posts, review contractor applications, approve or reject jobs, and pay after job completion.",
+        "contractors": "b. Contractors (Service Providers):",
+        "contractorsText": "Can browse and apply to jobs, upload proof of completion, and get paid (minus commission) upon job approval.",
+        "accountRegistration": "Account Registration",
+        "accountRule1": "You must provide accurate information.",
+        "accountRule2": "You are responsible for maintaining account confidentiality.",
+        "accountRule3": "You must be 18 years or older to register.",
+        "postingJobs": "Posting and Accepting Jobs",
+        "postJobRule1": "Job Posters may post jobs free of charge.",
+        "postJobRule2": "Contractors must have an active subscription after the 3-month trial to apply.",
+        "postJobRule3": "All job details must be accurate and respectful.",
+        "paymentsAndFees": "Payments and Fees",
+        "paymentRule1": "Clients pay after job completion and approval.",
+        "paymentRule2": "Contractors receive payments minus a 10% commission.",
+        "paymentRule3": "Subscription fees for contractors are €20/month after the trial period.",
+        "paymentRule4": "All payments are handled securely via Stripe or PayPal.",
+        "prohibitedActivities": "Prohibited Activities",
+        "youAgreeNotTo": "You agree not to:",
+        "prohibited1": "Provide false information",
+        "prohibited2": "Use offensive or abusive language",
+        "prohibited3": "Post fraudulent or inappropriate job listings",
+        "prohibited4": "Violate laws or third-party rights",
+        "prohibited5": "Attempt to bypass the platform for off-platform deals",
+        "privacyDataUse": "Privacy and Data Use",
+        "privacyText": "Your data is protected under our Privacy Policy. We comply with UK and GDPR data laws. See full policy ",
+        "here": "here",
+        "dataRetention": "Data Retention",
+        "dataRetentionText": "We keep your data as long as your account is active or as needed to fulfill legal, contractual, or platform requirements. You may delete your account at any time.",
+        "intellectualProperty": "Intellectual Property",
+        "intellectualPropertyText": "All content on this website (text, graphics, logo, software) belongs to [Your Company Name] unless otherwise stated. Do not copy or reproduce without permission.",
+        "governingLaw": "Governing Law",
+        "governingLawText": "These Terms are governed by the laws of England and Wales."
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Everything you need to know about posting jobs, applying to clean, payments, subscriptions, and more.",
+        "label": "FAQ",
+        "heading": "Got Questions? I’ve Got Answers.",
+        "jobPostersTitle": "For Job Posters",
+        "jobPosters": [
+            {
+                "q": "Is it free to post a cleaning job?",
+                "a": "Yes. Posting a job is 100% free, and you only pay once the job is completed and approved by you."
+            },
+            {
+                "q": "How do I know which cleaner to choose?",
+                "a": "You can browse cleaner profiles, read reviews, and compare quotes to make the best choice for your needs."
+            },
+            {
+                "q": "Do I have to pay upfront?",
+                "a": "No, payment is only processed after the cleaning job is completed to your satisfaction."
+            },
+            {
+                "q": "Can I upload images or videos for the job?",
+                "a": "Yes, you can upload images and videos to help cleaners better understand the scope of work."
+            },
+            {
+                "q": "What happens if I'm not happy with the job?",
+                "a": "We have a satisfaction guarantee. If you're not happy, we'll work with you and the cleaner to resolve the issue."
+            }
+        ],
+        "contractorsTitle": "For Contractors",
+        "contractors": [
+            {
+                "q": "How does the free trial work?",
+                "a": "You get 3 months free to try our platform. After that, it's €20/month to continue accessing jobs."
+            },
+            {
+                "q": "How do I get paid?",
+                "a": "Payment is processed automatically after job completion. You receive 90% of the job payment (10% platform fee)."
+            },
+            {
+                "q": "What happens if the client doesn't approve my work?",
+                "a": "We have a dispute resolution process to ensure fair outcomes for both parties."
+            },
+            {
+                "q": "Can I send a custom price instead of accepting the fixed one?",
+                "a": "Yes, you can negotiate pricing with clients based on the specific requirements of each job."
+            },
+            {
+                "q": "Will I still pay commission during the free trial?",
+                "a": "No, during your 3-month free trial, you keep 100% of your earnings with no platform fees."
+            }
+        ],
+        "stillQuestionsTitle": "Still Have Questions?",
+        "stillQuestionsText": "Please connect with our team, we are happy to help you",
+        "contactUs": "Contact Us"
+    },
+    "contact": {
+        "heroTitle": "We're here to help",
+        "heroSubtitle1": "Whether you’re hiring a cleaner or providing cleaning services,",
+        "heroSubtitle2": "our support team is ready to assist you.",
+        "contactUsButton": "Contact Us",
+        "mainHeading": "WE'RE HERE TO HELP",
+        "contactInfo": {
+            "email": "example@teamwebflow.com",
+            "addressLine1": "4074 Ebert Summit Suite 375",
+            "addressLine2": "Lake Leonardchester",
+            "phone1": "+44 123 654 7890",
+            "phone2": "+44 123 654 7890, +44 123 654 7890"
+        },
+        "form": {
+            "heading": "Send us a note",
+            "name": "Your Name",
+            "email": "Your Email",
+            "message": "Describe",
+            "namePlaceholder": "Enter your name",
+            "emailPlaceholder": "Enter your email",
+            "messagePlaceholder": "Tell us about your project or question",
+            "sending": "Sending...",
+            "sendButton": "Send Message"
+        },
+        "formErrors": {
+            "nameRequired": "Name is required",
+            "emailRequired": "Email is required",
+            "emailInvalid": "Enter a valid email",
+            "messageRequired": "Message is required",
+            "messageMin": "Message must be at least 10 characters"
+        }
+    },
+    "card": {
+        "Price": "Price",
+        "Date": "Date",
+        "Time": "Time",
+        "Accept": "Accept",
+        "MakeOffer": "Make Offer",
+        "jobTitle": {
+            "Deep Cleaning for Apartment": "Deep Cleaning for Apartment"
+        },
+        "city": {
+            "Dhaka": "Dhaka",
+            "Banani": "Banani"
+        },
+        "area": {
+            "Banani": "Banani"
+        },
+        "cleaningCategory": {
+            "Deep Cleaning": "Deep Cleaning",
+            "Residential": "Residential"
+        },
+        "extraRequirements": {
+            "Bring your own cleaning supplies": "Bring your own cleaning supplies"
+        }
+    },
+    "featureJob": {
+        "featuredCleaningJobs": "Featured Cleaning Jobs",
+        "latestCleaningJobs": "Latest Cleaning Jobs For You",
+        "loadingJobs": "Loading jobs...",
+        "somethingWentWrong": "Something went wrong. Please try again.",
+        "noJobsAvailable": "No jobs available right now."
+    },
+    "testimonials": {
+        "title": "Testimonials",
+        "heading": "What Our Users Are Saying",
+        "customers": "Customers",
+        "contractors": "Contractors"
+    },
+    "allJobs": {
+        "location": "Location",
+        "category": "Category",
+        "date": "Date",
+        "clearFilters": "Clear Filters",
+        "featuredCleaningJobs": "Featured Cleaning Jobs",
+        "latestCleaningJobs": "Latest Cleaning Jobs Near You",
+        "searchingJobs": "Searching jobs...",
+        "somethingWentWrong": "Something went wrong. Please try again.",
+        "noJobsAvailable": "No jobs available right now.",
+        "noJobsMatchFilters": "No jobs match your filters. Try changing filters."
+    },
+    "pricingPage": {
+        "loadingPlans": "Loading plans...",
+        "somethingWentWrong": "Something went wrong. Please try again.",
+        "planAndPricing": "Plan & Pricing",
+        "simpleTransparentPricing": "Simple, Transparent Pricing for Everyone",
+        "month": "month",
+        "enjoyFirst3MonthsFree": "Enjoy the first 3 months free. Afterwards, the plan continues at",
+        "perMonth": "per month.",
+        "serviceFree": "This service is completely free for job posters.",
+        "getStarted": "Get Started"
+    },
+    "contractors": {
+        "topContractorsNearYou": "Top Contractors Near You",
+        "trustedCleaningExperts": "Trusted Cleaning Experts You Can Rely On",
+        "jobsCompleted": "jobs completed",
+        "viewProfile": "View Profile",
+        "giveOrder": "Give Order"
+    },
+    "sidebar": {
+        "user": {
+            "myOrder": "My Order",
+            "profileSettings": "Profile Settings",
+            "helpSupport": "Help & Support",
+            "subscription": "Subscription"
+        },
+        "contractor": {
+            "myJobs": "My Jobs",
+            "profileSettings": "Profile Settings",
+            "helpSupport": "Help & Support",
+            "subscription": "Subscription"
+        },
+        "admin": {
+            "approvals": "Approvals",
+            "reviewsReports": "Review & Reports",
+            "payments": "Payments",
+            "plansPricing": "Plans & Pricing"
+        },
+        "logout": "Log Out"
+    },
+    "approvalsPage": {
+        "title": "Approvals",
+        "tabs": {
+            "poster": "Posters Request",
+            "contractor": "Contractor Request",
+            "job": "Job Post Request"
+        }
+    },
+    "posterRequest": {
+        "joinedDate": "Joined Date",
+        "approve": "Approve",
+        "viewDetails": "View Details",
+        "noRequests": "No Poster Request Available",
+        "toast": {
+            "success": "Job Poster Approved Successfully!",
+            "error": "Something went wrong!"
+        }
+    },
+    "jobPostersRequest": {
+        "title": "Job Posters Request",
+        "loading": "Loading...",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "approve": "Approve",
+        "cancel": "Cancel",
+        "giveSuggestion": "Give Suggestion",
+        "send": "Send",
+        "approvedSuccess": "Job Poster Approved Successfully!",
+        "rejectedSuccess": "Job Poster Rejected Successfully!",
+        "error": "Something went wrong!"
+    },
+    "contractorRequest": {
+        "loading": "Loading...",
+        "joinedDate": "Joined Date",
+        "approve": "Approve",
+        "viewDetails": "View Details",
+        "noRequest": "No contractor requests available",
+        "approvedSuccess": "Contractor approved successfully!",
+        "error": "Something went wrong!"
+    },
+    "contractorApproval": {
+        "loading": "Loading...",
+        "header": "Contractors Request",
+        "bio": "Bio",
+        "services": "Services",
+        "serviceArea": "Service Area",
+        "companyInfo": "Company Information",
+        "companyName": "Company Name",
+        "phone": "Phone",
+        "email": "Email",
+        "fullAddress": "Full Address",
+        "companyDocs": "Company Documents",
+        "taxNumber": "Tax Number",
+        "insuranceNumber": "Insurance Number",
+        "insuranceDoc": "Insurance Document",
+        "insuranceDocAlt": "Insurance Document",
+        "personalInfo": "Personal Information",
+        "contractorName": "Contractor Name",
+        "paymentInfo": "Payment Information",
+        "paymentMethod": "Payment Method",
+        "approve": "Approve",
+        "cancel": "Cancel",
+        "giveSuggestion": "Give Suggestion",
+        "send": "Send",
+        "approvedSuccess": "Contractor approved successfully!",
+        "rejectedSuccess": "Contractor rejected successfully!",
+        "error": "Something went wrong!"
+    },
+    "jobApproval": {
+        "loading": "Loading...",
+        "approve": "Approve",
+        "approveSuccess": "Job Post Approved Successfully!",
+        "error": "Something went wrong!",
+        "viewDetails": "View Details",
+        "noJobRequest": "No Job Request Available",
+        "joinedDate": "Joined Date"
+    },
+    "jobApprovalDetail": {
+        "loading": "Loading...",
+        "header": "Jobs Request",
+        "jobTitle": "Job Title",
+        "cleaningCategory": "Cleaning Category",
+        "jobDescription": "Job Description",
+        "street": "Street",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "contactInfo": "Contact Information",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "notification": "Notification Preference",
+        "inApp": "In-app notifications",
+        "toolsProvided": "[Job Poster will provide cleaning tools]",
+        "toolsNotProvided": "[Job Poster will Not provide cleaning tools]",
+        "attachments": "Attachments",
+        "accept": "Accept",
+        "cancel": "Cancel",
+        "approveSuccess": "Job Post Approved Successfully!",
+        "rejectSuccess": "Job Post Approval Rejected!",
+        "error": "Something went wrong!"
+    },
+    "reviewReport": {
+        "header": "Review & Reports",
+        "jobPosterReviews": "Job Poster Reviews",
+        "contractorReviews": "Contractors Review",
+        "jobReports": "Job Posters Report",
+        "contractorReports": "Contractors Report"
+    },
+    "jobPosterReview": {
+        "loading": "Loading...",
+        "approve": "Approve",
+        "decline": "Decline",
+        "review": "Review",
+        "rating": "Great Star",
+        "approveSuccess": "Approved this review successfully!",
+        "rejectSuccess": "Rejected this review successfully!",
+        "error": "Something went wrong!",
+        "noPending": "NO PENDING CUSTOMER REVIEWS AVAILABLE"
+    },
+    "contractorReview": {
+        "loading": "Loading...",
+        "approve": "Approve",
+        "decline": "Decline",
+        "review": "Review",
+        "rating": "Great Star",
+        "approveSuccess": "Approved this review successfully!",
+        "rejectSuccess": "Rejected this review successfully!",
+        "error": "Something went wrong!",
+        "noPending": "NO PENDING CONTRACTOR REVIEWS AVAILABLE"
+    },
+    "jobPosterReport": {
+        "loading": "Loading...",
+        "report": "Report",
+        "description": "Description",
+        "viewDetails": "View Details",
+        "noData": "NO REPORT DATA AVAILABLE"
+    },
+    "contractorReport": {
+        "loading": "Loading...",
+        "review": "Review",
+        "viewDetails": "View Details",
+        "noData": "NO CONTRACTOR REPORT AVAILABLE"
+    },
+    "reportDetails": {
+        "loading": "Loading...",
+        "header": "Report Details",
+        "report": "Report",
+        "description": "Description",
+        "attachments": "Attachments",
+        "selectAction": "Select Action",
+        "sendWarning": "Send Warning",
+        "permBlock": "Permanent Block",
+        "submitAction": "Submit Action",
+        "sending": "Sending...",
+        "notificationSent": "Action message sent successfully!",
+        "notificationFailed": "Failed to send the notification to contractor!",
+        "actionFailed": "Failed to send action"
+    },
+    "payments": {
+        "loading": "Loading...",
+        "header": "Payments",
+        "date": "Date",
+        "type": "Type",
+        "user": "User",
+        "amount": "Amount",
+        "platformEarning": "Platform Earning",
+        "types": {
+            "job": "Job",
+            "subscription": "Subscription"
+        }
+    },
+    "jobPoster": {
+        "loadingPlans": "Loading plans...",
+        "errorLoadingPlans": "Something went wrong. Please try again.",
+        "perMonth": "month",
+        "editPlan": "Edit Plan",
+        "planTypes": {
+            "basic": "Basic",
+            "standard": "Standard",
+            "premium": "Premium"
+        }
+    },
+    "pricing": {
+        "planName": "Plan Name",
+        "planType": "Plan Type",
+        "price": "Price (£)",
+        "facilities": "Facilities",
+        "duration": "Duration (Days)",
+        "saveChanges": "Save Changes",
+        "cancel": "Cancel",
+        "addNew": "Add new",
+        "loading": "Loading...",
+        "editPlanFor": "Edit plan for {{role}}"
+    },
+    "myJobs": {
+        "allOffers": "All Offers",
+        "pendingJobs": "Pending Jobs",
+        "completedJobs": "Completed Jobs"
+    },
+    "pendingOffers": {
+        "loading": "Loading...",
+        "noPendingJobs": "No pending job available",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "viewOffers": "View Offers"
+    },
+    "houseCleaningOffer": {
+        "makeOffer": "Make an offer",
+        "fullAddress": "Full Address",
+        "dateTime": "Date & Time",
+        "contactInfo": "Contact Information",
+        "street": "Street",
+        "area": "Area",
+        "city": "City",
+        "date": "Date",
+        "time": "Time",
+        "name": "Name",
+        "phone": "Phone",
+        "email": "Email",
+        "counterOfferFromPoster": "You’ve received a counter offer from a job poster:",
+        "yourOffer": "Counter Offer",
+        "price": "Price",
+        "declineOffer": "Decline Offer",
+        "acceptOffer": "Accept Offer",
+        "sendCounter": "Send Counter",
+        "sendOffer": "Send Offer",
+        "pleaseEnterPrice": "Please enter offer price!"
+    },
+    "pendingJobsCard": {
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "updateProgress": "Update Progress",
+        "noPendingJob": "NO PENDING JOB AVAILABLE"
+    },
+    "progressDetails": {
+        "pendingJob": "Pending Job",
+        "updateProgress": "Update Progress",
+        "estimatedTime": "Estimated Time",
+        "photos": "Photos",
+        "videos": "Videos",
+        "addPhoto": "Add Photo",
+        "addVideo": "Add Video",
+        "chooseFile": "Choose File",
+        "noFileChosen": "No File Chosen",
+        "saveUpdate": "Save Update",
+        "selectStatus": "Select status"
+    },
+    "jobs": {
+        "loading": "Loading...",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "giveReview": "Give a Review",
+        "noCompletedJobs": "No completed job yet"
+    },
+    "reviews": {
+        "title": "Give a Review",
+        "ratingHint": "Tap on a star to rate your experience with this seller.",
+        "reviewLabel": "Review",
+        "reviewPlaceholder": "Write here...",
+        "submit": "Submit Review",
+        "posterTitle": "Job Poster's Review",
+        "posterExample": "Booking was simple and transparent. I posted the job in under 5 minutes and got responses almost instantly. Our office has never been cleaner.",
+        "report": "Report against Job Poster",
+        "selectRating": "Please select a rating",
+        "writeReview": "Please write a review",
+        "success": "Review added successfully!",
+        "error": "An error occurred"
+    },
+    "reportJobPoster": {
+        "title": "Report Job Poster",
+        "reasonTitle": "Why are you reporting this job?",
+        "reasonDescription": "Only flagged jobs will be sent and reported. Your identity will be kept confidential.",
+        "rudeTitle": "Rude behavior",
+        "rudeDescription": "Describe about this",
+        "descriptionPlaceholder": "Describe...",
+        "attachmentsTitle": "Send Attachments",
+        "uploadPhotos": "Upload Photos",
+        "uploadVideos": "Upload Videos",
+        "submit": "Submit Report",
+        "selectReason": "Please select a reason",
+        "success": "Successfully reported for this job poster!",
+        "error": "An error occurred",
+        "reasons": {
+            "Scammer": "Scammer",
+            "Dangerous_item": "Dangerous item",
+            "Violence": "Violence",
+            "I_don't_like_this": "I don't like this",
+            "Not_available_to_buy": "Not available to buy",
+            "Illegal_harassment": "Illegal harassment",
+            "Null_behavior": "Null behavior",
+            "Something_else": "Something else"
+        }
+    },
+    "contractorProfile": {
+        "title": "Contractor Profile",
+        "editProfile": "Edit Profile",
+        "matchmeet": "Matchmeet",
+        "jobsCompleted": "jobs completed",
+        "services": "Services",
+        "availability": "Availability",
+        "availableDays": "Sunday to Thursday",
+        "to": "to",
+        "completedProjects": "Completed Projects",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "reviews": "Reviews",
+        "anonymous": "Anonymous"
+    },
+    "profileEdit": {
+        "profileSettings": "Profile Settings",
+        "addBio": "Add Bio",
+        "addServices": "Add Services",
+        "addServiceAreas": "Add Service Areas",
+        "availability": "Availability",
+        "fromDate": "From Date",
+        "toDate": "To Date",
+        "time": "Time",
+        "companyName": "Company Name",
+        "companyPhone": "Company Phone",
+        "companyEmail": "Company Email",
+        "companyAddress": "Company Address",
+        "contractorName": "Contractor Name",
+        "personalPhone": "Personal Phone",
+        "personalEmail": "Personal Email",
+        "saveChanges": "Save Changes",
+        "cancel": "Cancel",
+        "uploadNewPhoto": "Upload new photo",
+        "add": "Add",
+        "addMore": "Add More",
+        "enterServiceName": "Enter service name",
+        "enterPostcodeOrArea": "Enter postcode or area"
+    },
+    "helpSupport": {
+        "helpSupport": "Help & Support",
+        "yourName": "Your Name",
+        "yourEmail": "Your Email",
+        "describe": "Describe",
+        "sendMessage": "Send Message",
+        "messageSent": "Message sent successfully!",
+        "somethingWentWrong": "Something went wrong!"
+    },
+    "subscriptionNotice": {
+        "subscription": "Subscription",
+        "accessExpiring": "Your Access Is About to Expire",
+        "continueFeatures": "Continue bidding on jobs, growing your cleaning business, and accessing premium features.",
+        "plan": "Plan",
+        "expirationDate": "Expiration Date",
+        "daysLeft": "Days Left",
+        "days": "days",
+        "cancelPlan": "Cancel Plan",
+        "planCanceled": "Plan canceled successfully!",
+        "somethingWentWrong": "Something went wrong!",
+        "noData": "No subscription data available.",
+        "noActiveSubscription": "No Subscription active"
+    },
+    "myOrder": {
+        "allOrders": "All Orders",
+        "allOffers": "All Offers",
+        "pendingOrders": "Pending Orders",
+        "completedOrders": "Completed Orders"
+    },
+    "myOrderCard": {
+        "loading": "Loading...",
+        "jobImageAlt": "Job Image",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "edit": "Edit",
+        "noJobs": "No jobs posted yet"
+    },
+    "postEdit": {
+        "editPost": "Edit Post",
+        "jobTitle": "Job Title",
+        "jobTitleRequired": "Job title is required",
+        "cleaningCategory": "Cleaning Category",
+        "selectCategory": "Select category",
+        "residential": "Residential",
+        "commercial": "Commercial",
+        "office": "Office",
+        "jobDescription": "Job Description",
+        "street": "Street",
+        "area": "Area",
+        "city": "City",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "extraRequirements": "Extra Requirements",
+        "ownTools": "Do you have cleaning tools?",
+        "thumbnail": "Thumbnail",
+        "photos": "Photos",
+        "videos": "Videos",
+        "addNew": "Add New",
+        "contactInfo": "Contact Information",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "notification": "Notification Method",
+        "selectNotification": "Select notification",
+        "inApp": "In App",
+        "sms": "SMS",
+        "updatePost": "Update Post",
+        "loading": "Loading...",
+        "success": "updated successfully!",
+        "error": "Something went wrong!"
+    },
+    "postOffers": {
+        "loading": "Loading...",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "job": "Job",
+        "trackProgress": "Track Progress",
+        "viewOffers": "View Offers",
+        "noOfferJobYet": "No offer job yet"
+    },
+    "myPostedJobs": {
+        "myPostedJobs": "My Posted Jobs",
+        "exampleJob": "House Cleaning",
+        "receivedCounterOffer": "You’ve received a counter offer from a contractor for your posted job:",
+        "yourPrice": "Original Price",
+        "contractorOffer": "Conunter Offer",
+        "declineOffer": "Decline Offer",
+        "acceptOffer": "Accept Offer",
+        "taskAccepted": "Task accepted successfully!",
+        "offerDeclined": "Decline offer successfully!",
+        "somethingWentWrong": "Something went wrong!"
+    },
+    "pendingOrders": {
+        "loading": "Loading...",
+        "price": "Price",
+        "date": "Date",
+        "time": "Time",
+        "trackProgress": "Track Progress",
+        "noAcceptedJob": "NO ACCEPTED JOB YET"
+    },
+    "trackProgressReview": {
+        "trackProgress": "Track Progress",
+        "orderConfirmed": "Order Confirmed",
+        "inProcess": "In Process",
+        "employeeAssigned": "Employee Assigned",
+        "arrived": "Arrived",
+        "completed": "Completed",
+        "estimatedDate": "Estimated Date",
+        "estimatedTime": "Estimated Time",
+        "contractor": "Contractor",
+        "serviceCompleted": "Service completed successfully!",
+        "yourServiceCompleted": "Your {{jobTitle}} service has been completed by {{contractor}}."
+    },
+    "profileSettings": {
+        "title": "Profile Settings",
+        "profilePhoto": "Profile Photo",
+        "uploadPhoto": "Upload new photo",
+        "photoInstructions": "At least 300*300 px recommended. JPG or PNG is allowed",
+        "fullName": "Full Name",
+        "email": "Email",
+        "phone": "Phone",
+        "saveChanges": "Save Changes",
+        "cancel": "Cancel",
+        "changePassword": "Change Password",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "saving": "Saving...",
+        "changing": "Changing...",
+        "validation": {
+            "required": "{{field}} is required",
+            "invalidEmail": "Invalid email address",
+            "invalidPhone": "Please enter a valid phone number",
+            "minLengthPassword": "Password must be at least {{count}} characters"
+        },
+        "success": {
+            "profileUpdated": "Profile updated successfully!",
+            "passwordChanged": "Password changed successfully!"
+        },
+        "error": {
+            "profileUpdateFailed": "Failed to update profile. Please try again.",
+            "passwordChangeFailed": "Failed to change password. Please try again."
+        }
+    },
+    "createJob": {
+        "title": "Create New Post",
+        "jobTitle": "Job Title",
+        "jobTitlePlaceholder": "Job Title",
+        "jobTitleRequired": "Job title is required",
+        "cleaningCategory": "Cleaning Category",
+        "selectCategory": "Select category",
+        "residential": "Residential",
+        "commercial": "Commercial",
+        "office": "Office",
+        "jobDescription": "Job Description",
+        "descriptionPlaceholder": "Describe",
+        "street": "Street",
+        "streetPlaceholder": "Street",
+        "area": "Area",
+        "areaPlaceholder": "Area",
+        "city": "City",
+        "cityPlaceholder": "City",
+        "price": "Price",
+        "pricePlaceholder": "amount",
+        "date": "Date",
+        "datePlaceholder": "25/2024",
+        "time": "Time",
+        "extraRequirements": "Extra Requirements",
+        "extraRequirementsPlaceholder": "Describe",
+        "hasCleaningItems": "Do you have your own cleaning tools?",
+        "uploadThumbnail": "Upload Thumbnail",
+        "uploadPhotos": "Upload Photos",
+        "uploadVideos": "Upload Videos",
+        "addNew": "Add new",
+        "fileFormats": "Formats: JPG, PNG, JPEG – Max 5MB",
+        "contactInformation": "Contact Information",
+        "name": "Name",
+        "namePlaceholder": "Your Name",
+        "email": "Email",
+        "emailPlaceholder": "Email",
+        "phone": "Phone",
+        "notificationPreference": "Notification Preference",
+        "inAppNotifications": "In-app notifications",
+        "emailNotifications": "Email notifications",
+        "smsNotifications": "SMS notifications",
+        "postNow": "Post Now",
+        "posting": "Posting...",
+        "postSuccess": "Post Successfully created! Waiting for admin approve!",
+        "postError": "Something went wrong!"
+    },
+    "login": {
+        "getStarted": "Get Started",
+        "loginBtn": "Log in",
+        "signupBtn": "Sign Up"
+    },
+    "loginone": {
+        "welcomeTitle": "Welcome back",
+        "welcomeDescription": "Welcome back! Continue where you left off and keep building your skills.",
+        "emailLabel": "Email",
+        "emailPlaceholder": "email@gmail.com",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "********",
+        "forgotPassword": "Forgot Password?",
+        "loginBtn": "Log in",
+        "noAccount": "Don’t have an account?",
+        "signupLink": "Sign up for free",
+        "loadingToast": "Logging in...",
+        "successToast": "Login Successful!",
+        "errorToast": "Login failed. Please try again."
+    },
+    "signupone": {
+        "title": "Register",
+        "jobPosterOption": "Sign Up as a Job Poster",
+        "contractorOption": "Sign Up as a Contractor"
+    },
+    "jobposterregister": {
+        "title": "Create an account",
+        "companyLabel": "Company Name / Full Name",
+        "companyPlaceholder": "Your company name",
+        "companyError": "Company name is required",
+        "phoneLabel": "Phone",
+        "phonePlaceholder": "123 456 789",
+        "phoneError": "Phone is required",
+        "emailLabel": "Email",
+        "emailPlaceholder": "mail@gmail.com",
+        "emailError": "Email is required",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "Password",
+        "passwordError": "Password is required",
+        "button": "Registration",
+        "footerText": "Already have an account?",
+        "loginLink": "Log in",
+        "creatingUser": "Creating user...",
+        "success": "User Created Successfully!",
+        "error": "Something went wrong!"
+    },
+    "contractorregister": {
+        "title": "Create a Contractor account",
+        "companyLabel": "Company Name",
+        "companyPlaceholder": "name",
+        "companyError": "Company name is required",
+        "phoneLabel": "Phone",
+        "phonePlaceholder": "XX XXX XXXX",
+        "phoneError": "Phone number is required",
+        "emailLabel": "Email",
+        "emailPlaceholder": "email@gmail.com",
+        "emailError": "Email is required",
+        "emailInvalid": "Invalid email address",
+        "addressLabel": "Full Address",
+        "addressPlaceholder": "El exit",
+        "addressError": "Address is required",
+        "nextButton": "Next",
+        "footerText": "Already have an account?",
+        "loginLink": "Log in"
+    },
+    "contractorinfo": {
+        "title": "Contractor Information",
+        "contractorNameLabel": "Contractor Name",
+        "contractorNamePlaceholder": "Name",
+        "contractorNameError": "Contractor name is required",
+        "phoneLabel": "Phone",
+        "phonePlaceholder": "(0) 000 000 000",
+        "phoneError": "Phone number is required",
+        "emailLabel": "Email",
+        "emailPlaceholder": "email@gmail.com",
+        "emailError": "Email is required",
+        "emailInvalid": "Invalid email address",
+        "nextButton": "Next",
+        "footerText": "Already have an account?",
+        "loginLink": "Log in"
+    },
+    "contractorServices": {
+        "title": "Contractor Information",
+        "bioLabel": "Add Bio",
+        "bioPlaceholder": "Describe yourself",
+        "bioError": "Bio is required",
+        "servicesLabel": "Add Services",
+        "serviceOptions": [
+            "Commercial",
+            "Residential",
+            "Office"
+        ],
+        "serviceAreasLabel": "Add Service Areas",
+        "serviceAreaPlaceholder": "area",
+        "serviceAreaError": "At least one service area is required",
+        "addMoreButton": "Add More",
+        "continueButton": "Continue"
+    },
+    "companyDocuments": {
+        "title": "Company Information",
+        "taxNumberLabel": "Add Tax Number",
+        "taxNumberPlaceholder": "46741 46646",
+        "insuranceNumberLabel": "Add Insurance Number",
+        "insuranceNumberPlaceholder": "46741 46646",
+        "continueButton": "Continue"
+    },
+    "contractorRegistration": {
+        "title": "Company Information",
+        "profilePictureLabel": "Upload Contractor Profile Picture",
+        "profilePicturePlaceholder": "No File Chosen",
+        "profilePictureFormats": "Formats: JPG, PNG, JPEG - Max 5MB each",
+        "insuranceLabel": "Upload Insurance Document",
+        "insurancePlaceholder": "No File Chosen",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Enter your email",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "Enter your password",
+        "chooseFile": "Choose File",
+        "registerButton": "Register",
+        "loginPrompt": "Already have an account?",
+        "loginLink": "Login"
+    }
+}
